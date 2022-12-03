@@ -9,5 +9,5 @@ You can do this by running the following commands:
 
 Once you have installed Rust and bdk, you can compile and run the program using the following commands:
  
-`rustc wallet.rs`
+`rustc wallet.rs` \
 `./wallet`
